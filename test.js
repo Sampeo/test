@@ -1,3 +1,3 @@
 function test(){
-  log.error("Das Funktioniert");
+  console.log("Das Funktioniert");
 }
